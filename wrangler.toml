@@ -1,4 +1,4 @@
-name = "admin" # todo
+name = "jhoy" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,7 +6,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "bf57ee1a-7037-489b-9ec6-7e3346322eeb"
+# UUID = "56255e59-f853-4dc7-ba92-7896ed190767"
 # PROXYIP = "103.133.223.50"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
